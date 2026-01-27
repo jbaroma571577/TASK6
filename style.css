@@ -1,0 +1,10 @@
+#home {
+  height: 100vh;
+  background: linear-gradient(to right, #2b0a3d, #5a0f2e);
+  color: #f3e8ff;
+  margin-bottom: 70px;
+}
+
+#skills {
+  margin-top: 70px;
+}
